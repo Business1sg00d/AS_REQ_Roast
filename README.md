@@ -14,6 +14,17 @@ This tool takes a pcap file and looks for these AS_REQ packets. Once found, it e
 
 
 
+# Requirements
+
+```
+pip3 install scapy
+```
+
+A Virtual Environment is recommended.
+
+
+
+
 # Usage
 
 ```
