@@ -23,3 +23,8 @@ no brackets
 ```
 
 
+
+
+# References:
+
+https://vbscrub.com/2020/02/27/getting-passwords-from-kerberos-pre-authentication-packets/
